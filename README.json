@@ -1,0 +1,500 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Next.js",
+          "description": "Next.js is a minimalistic framework for server-rendered React applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T03:57:22Z",
+            "owner": "vercel",
+            "repo": "next.js",
+            "stars": 141750
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Create React App",
+          "description": "Create React apps with no build configuration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-15T01:32:11Z",
+            "owner": "react",
+            "repo": "create-react-app",
+            "stars": 103320
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strapi",
+          "description": "🚀 Node.js Content Management Framework (headless-CMS) to build powerful API with no effort.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T15:46:17Z",
+            "owner": "strapi",
+            "repo": "strapi",
+            "stars": 72858
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Webpack",
+          "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through \"loaders,\" modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T19:31:13Z",
+            "owner": "webpack",
+            "repo": "webpack",
+            "stars": 65985
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docusaurus",
+          "description": "Easy to maintain open source documentation websites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T21:10:56Z",
+            "owner": "facebook",
+            "repo": "docusaurus",
+            "stars": 65905
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nuxt.js",
+          "description": "Versatile Vue.js Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:05:18Z",
+            "owner": "nuxt",
+            "repo": "nuxt",
+            "stars": 60755
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gatsby",
+          "description": "⚛️📄🚀 Blazing-fast static site generator for React.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T05:12:32Z",
+            "owner": "gatsbyjs",
+            "repo": "gatsby",
+            "stars": 55941
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Parcel",
+          "description": "📦🚀 Blazing fast, zero configuration web application bundler.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T05:03:21Z",
+            "owner": "parcel-bundler",
+            "repo": "parcel",
+            "stars": 44025
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-cli",
+          "description": "A simple CLI for scaffolding Vue.js projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-08-21T10:56:30Z",
+            "owner": "vuejs",
+            "repo": "vue-cli",
+            "stars": 29545
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Angular CLI",
+          "description": "CLI tool for Angular.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T21:26:22Z",
+            "owner": "angular",
+            "repo": "angular-cli",
+            "stars": 27018
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Razzle",
+          "description": "✨ Create server-rendered universal JavaScript applications with no configuration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-11T08:45:43Z",
+            "owner": "jaredpalmer",
+            "repo": "razzle",
+            "stars": 11029
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sapper",
+          "description": "Military-grade progressive web apps, powered by Svelte.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-01-11T17:18:27Z",
+            "owner": "sveltejs",
+            "repo": "sapper",
+            "stars": 6924
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nwb",
+          "description": "A toolkit for React, Preact, Inferno & vanilla JS apps, React libraries and other npm modules for the web, with no configuration (until you need it).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2025-02-15T17:20:52Z",
+            "owner": "insin",
+            "repo": "nwb",
+            "stars": 5537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "preact-cli",
+          "description": "High-performance Preact PWA's in seconds.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-27T18:12:14Z",
+            "owner": "preactjs",
+            "repo": "preact-cli",
+            "stars": 4667
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rekit",
+          "description": "Toolkit for building scalable web applications with React, Redux and React-router.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-03T04:46:14Z",
+            "owner": "supnate",
+            "repo": "rekit",
+            "stars": 4425
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Backpack",
+          "description": "🎒 Backpack is a minimalistic build system for Node.js projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-07T12:56:15Z",
+            "owner": "jaredpalmer",
+            "repo": "backpack",
+            "stars": 4402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "After.js",
+          "description": "Next.js-like framework for server-rendered React apps built with React Router 4.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-02-26T16:18:59Z",
+            "owner": "jaredpalmer",
+            "repo": "after.js",
+            "stars": 4090
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neutrino",
+          "description": "Create and build modern JavaScript applications with zero initial configuration.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-02-03T19:50:34Z",
+            "owner": "neutrinojs",
+            "repo": "neutrino",
+            "stars": 3908
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Create React App Typescript",
+          "description": "Create React apps using typescript with no build configuration.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-08-21T21:31:39Z",
+            "owner": "wmonk",
+            "repo": "create-react-app-typescript",
+            "stars": 3677
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ember-cli",
+          "description": "The Ember.js command line utility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T11:49:45Z",
+            "owner": "ember-cli",
+            "repo": "ember-cli",
+            "stars": 3237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Create Elm App",
+          "description": "Create Elm apps with zero configuration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-28T18:47:10Z",
+            "owner": "halfzebra",
+            "repo": "create-elm-app",
+            "stars": 1677
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Create Guten Block",
+          "description": "Create WordPress Gutenberg plugins with zero-configuration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-04T18:02:10Z",
+            "owner": "ahmadawais",
+            "repo": "create-guten-block",
+            "stars": 769
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aurelia CLI",
+          "description": "The official command line tooling for Aurelia. Use the CLI to create projects, scaffold components and bundle your app for release.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-21T13:02:20Z",
+            "owner": "aurelia",
+            "repo": "cli",
+            "stars": 405
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Create Ueno App",
+          "description": "The easiest and fastest way to create new web projects with next, gatsby, create-react-app and mobile projects with react-native.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-11-09T19:10:26Z",
+            "owner": "ueno-llc",
+            "repo": "create-ueno-app",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Create Next App",
+          "description": "Create Next.js apps in one command.",
+          "children": []
+        }
+      ],
+      "title": "Web"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "react-scripts",
+          "description": "This package includes scripts and configuration used by Create React App.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-15T01:32:11Z",
+            "owner": "react",
+            "repo": "create-react-app",
+            "stars": 103320
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-app-rewired",
+          "description": "Override create-react-app webpack configs without ejecting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T02:27:35Z",
+            "owner": "timarney",
+            "repo": "react-app-rewired",
+            "stars": 9842
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-snap",
+          "description": "👻 Zero-configuration framework-agnostic static prerendering for SPAs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-02T00:56:29Z",
+            "owner": "stereobooster",
+            "repo": "react-snap",
+            "stars": 5118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kcd-scripts",
+          "description": "CLI toolbox for common scripts for Kent C. Dodds' projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-13T00:14:31Z",
+            "owner": "kentcdodds",
+            "repo": "kcd-scripts",
+            "stars": 889
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blogfoster-scripts",
+          "description": "Single-command, zero-config tooling for Node.js projects",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-06-08T07:53:32Z",
+            "owner": "blogfoster",
+            "repo": "blogfoster-scripts",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nodify",
+          "description": "Zero-config build tool system for Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-03-15T15:43:57Z",
+            "owner": "shrynx",
+            "repo": "nodify",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d-scripts",
+          "description": "Opinionated toolkit for Node apps based on kcd-scripts.",
+          "children": []
+        }
+      ],
+      "title": "Other"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome",
+          "description": "😎 Curated list of awesome lists.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-30T18:21:16Z",
+            "owner": "sindresorhus",
+            "repo": "awesome",
+            "stars": 495056
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Node.js",
+          "description": "⚡️ Delightful Node.js packages and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-03T08:24:10Z",
+            "owner": "sindresorhus",
+            "repo": "awesome-nodejs",
+            "stars": 66507
+          }
+        }
+      ],
+      "title": "Related lists"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "To the extent possible under law, Ronald Rey has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:17:18.672Z",
+    "original_repository": "reyronald/awesome-toolkits",
+    "original_repository_sha": "1a21e362f705950de4c1b4d1e1f701ebbcc2a183",
+    "enhanced_repository": "enhansome/enhansome-toolkits",
+    "enhanced_repository_description": null,
+    "title": "Awesome Toolkits with stars"
+  }
+}
