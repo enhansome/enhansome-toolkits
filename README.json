@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70107786,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T02:04:36Z",
+            "last_commit": "2026-08-19T12:42:37Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141858
+            "stars": 141864
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63537249,
             "language": "JavaScript",
             "last_commit": "2025-02-15T01:32:11Z",
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103289
+            "stars": 103287
           }
         },
         {
@@ -38,25 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43441403,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T15:57:57Z",
+            "last_commit": "2026-08-19T12:53:04Z",
             "owner": "strapi",
             "repo": "strapi",
-            "stars": 72964
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Webpack",
-          "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through \"loaders,\" modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T21:33:20Z",
-            "owner": "webpack",
-            "repo": "webpack",
-            "stars": 65968
+            "stars": 72967
           }
         },
         {
@@ -66,11 +55,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94911145,
             "language": "TypeScript",
             "last_commit": "2026-08-13T14:19:29Z",
             "owner": "facebook",
             "repo": "docusaurus",
-            "stars": 65967
+            "stars": 65991
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Webpack",
+          "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through \"loaders,\" modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3678731,
+            "language": "JavaScript",
+            "last_commit": "2026-08-19T11:14:09Z",
+            "owner": "webpack",
+            "repo": "webpack",
+            "stars": 65971
           }
         },
         {
@@ -80,11 +85,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71995937,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T02:30:52Z",
+            "last_commit": "2026-08-19T12:50:39Z",
             "owner": "nuxt",
             "repo": "nuxt",
-            "stars": 60761
+            "stars": 60763
           }
         },
         {
@@ -94,11 +100,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36040894,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T00:01:50Z",
+            "last_commit": "2026-08-19T11:32:21Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55943
+            "stars": 55944
           }
         },
         {
@@ -108,11 +115,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99598595,
             "language": "JavaScript",
             "last_commit": "2026-08-17T04:30:08Z",
             "owner": "parcel-bundler",
             "repo": "parcel",
-            "stars": 44018
+            "stars": 44019
           }
         },
         {
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48626335,
             "language": "JavaScript",
             "last_commit": "2025-08-21T10:56:30Z",
             "owner": "vuejs",
@@ -136,8 +145,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36891867,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T20:35:25Z",
+            "last_commit": "2026-08-19T07:56:43Z",
             "owner": "angular",
             "repo": "angular-cli",
             "stars": 27017
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51462299,
             "language": "JavaScript",
             "last_commit": "2024-03-11T08:45:43Z",
             "owner": "jaredpalmer",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 113865039,
             "language": "TypeScript",
             "last_commit": "2023-01-11T17:18:27Z",
             "owner": "sveltejs",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 45947467,
             "language": "JavaScript",
             "last_commit": "2025-02-15T17:20:52Z",
             "owner": "insin",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91839306,
             "language": "JavaScript",
             "last_commit": "2024-03-27T18:12:14Z",
             "owner": "preactjs",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64779439,
             "language": "JavaScript",
             "last_commit": "2022-12-03T04:46:14Z",
             "owner": "supnate",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78035476,
             "language": "JavaScript",
             "last_commit": "2024-08-07T12:56:15Z",
             "owner": "jaredpalmer",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 110400917,
             "language": "TypeScript",
             "last_commit": "2024-02-26T16:18:59Z",
             "owner": "jaredpalmer",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 80793561,
             "language": "JavaScript",
             "last_commit": "2024-02-03T19:50:34Z",
             "owner": "neutrinojs",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 76130347,
             "language": "JavaScript",
             "last_commit": "2019-08-21T21:31:39Z",
             "owner": "wmonk",
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14089735,
             "language": "JavaScript",
             "last_commit": "2026-08-17T22:28:05Z",
             "owner": "ember-cli",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67362231,
             "language": "JavaScript",
             "last_commit": "2026-07-28T18:47:10Z",
             "owner": "halfzebra",
@@ -304,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96999514,
             "language": "JavaScript",
             "last_commit": "2026-05-04T18:02:10Z",
             "owner": "ahmadawais",
@@ -318,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32024077,
             "language": "JavaScript",
             "last_commit": "2026-05-21T13:02:20Z",
             "owner": "aurelia",
@@ -332,24 +355,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 164729869,
             "language": "JavaScript",
             "last_commit": "2020-11-09T19:10:26Z",
             "owner": "ueno-llc",
             "repo": "create-ueno-app",
             "stars": 108
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Create Next App",
-          "description": "Create Next.js apps in one command.",
-          "children": []
         }
       ],
       "title": "Web"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -358,11 +376,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63537249,
             "language": "JavaScript",
             "last_commit": "2025-02-15T01:32:11Z",
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103289
+            "stars": 103287
           }
         },
         {
@@ -372,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65231883,
             "language": "JavaScript",
             "last_commit": "2026-08-11T02:27:35Z",
             "owner": "timarney",
@@ -386,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105412971,
             "language": "JavaScript",
             "last_commit": "2026-02-02T00:56:29Z",
             "owner": "stereobooster",
@@ -400,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102244722,
             "language": "JavaScript",
             "last_commit": "2026-05-13T00:14:31Z",
             "owner": "kentcdodds",
@@ -414,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 116405247,
             "language": "JavaScript",
             "last_commit": "2018-06-08T07:53:32Z",
             "owner": "blogfoster",
@@ -428,24 +451,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 108711151,
             "language": "JavaScript",
             "last_commit": "2018-03-15T15:43:57Z",
             "owner": "shrynx",
             "repo": "nodify",
             "stars": 9
           }
-        },
-        {
-          "node_type": "item",
-          "title": "d-scripts",
-          "description": "Opinionated toolkit for Node apps based on kcd-scripts.",
-          "children": []
         }
       ],
       "title": "Other"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -454,11 +472,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21737465,
             "language": null,
             "last_commit": "2026-08-18T13:28:50Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 497488
+            "stars": 497669
           }
         },
         {
@@ -468,30 +487,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21737266,
             "language": null,
             "last_commit": "2026-05-03T08:24:10Z",
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66554
+            "stars": 66558
           }
         }
       ],
       "title": "Related lists"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "To the extent possible under law, Ronald Rey has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T04:07:29.638Z",
+    "last_updated": "2026-08-19T12:53:53.273Z",
     "original_repository": "reyronald/awesome-toolkits",
+    "original_repository_id": 117570559,
     "original_repository_sha": "1a21e362f705950de4c1b4d1e1f701ebbcc2a183",
     "enhanced_repository": "enhansome/enhansome-toolkits",
     "enhanced_repository_description": null,
