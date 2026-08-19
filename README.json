@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T03:54:01Z",
+            "last_commit": "2026-08-19T02:04:36Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141814
+            "stars": 141858
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2025-02-15T01:32:11Z",
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103294
+            "stars": 103289
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T21:13:23Z",
+            "last_commit": "2026-08-18T15:57:57Z",
             "owner": "strapi",
             "repo": "strapi",
-            "stars": 72950
+            "stars": 72964
           }
         },
         {
@@ -53,10 +53,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T22:10:25Z",
+            "last_commit": "2026-08-18T21:33:20Z",
             "owner": "webpack",
             "repo": "webpack",
-            "stars": 65970
+            "stars": 65968
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-08-13T14:19:29Z",
             "owner": "facebook",
             "repo": "docusaurus",
-            "stars": 65944
+            "stars": 65967
           }
         },
         {
@@ -81,10 +81,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T03:50:00Z",
+            "last_commit": "2026-08-19T02:30:52Z",
             "owner": "nuxt",
             "repo": "nuxt",
-            "stars": 60763
+            "stars": 60761
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2026-08-15T00:01:50Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55944
+            "stars": 55943
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2025-08-21T10:56:30Z",
             "owner": "vuejs",
             "repo": "vue-cli",
-            "stars": 29542
+            "stars": 29541
           }
         },
         {
@@ -137,10 +137,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T17:09:59Z",
+            "last_commit": "2026-08-18T20:35:25Z",
             "owner": "angular",
             "repo": "angular-cli",
-            "stars": 27018
+            "stars": 27017
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2022-12-03T04:46:14Z",
             "owner": "supnate",
             "repo": "rekit",
-            "stars": 4425
+            "stars": 4424
           }
         },
         {
@@ -362,7 +362,7 @@
             "last_commit": "2025-02-15T01:32:11Z",
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103294
+            "stars": 103289
           }
         },
         {
@@ -455,10 +455,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-06-30T18:21:16Z",
+            "last_commit": "2026-08-18T13:28:50Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 497057
+            "stars": 497488
           }
         },
         {
@@ -472,7 +472,7 @@
             "last_commit": "2026-05-03T08:24:10Z",
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66539
+            "stars": 66554
           }
         }
       ],
@@ -490,7 +490,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T04:07:34.392Z",
+    "last_updated": "2026-08-19T04:07:29.638Z",
     "original_repository": "reyronald/awesome-toolkits",
     "original_repository_sha": "1a21e362f705950de4c1b4d1e1f701ebbcc2a183",
     "enhanced_repository": "enhansome/enhansome-toolkits",
