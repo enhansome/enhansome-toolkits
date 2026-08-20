@@ -12,10 +12,10 @@
             "archived": false,
             "id": 70107786,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T12:42:37Z",
+            "last_commit": "2026-08-20T03:13:50Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141864
+            "stars": 141873
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 43441403,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:53:04Z",
+            "last_commit": "2026-08-19T15:11:08Z",
             "owner": "strapi",
             "repo": "strapi",
-            "stars": 72967
+            "stars": 72970
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-13T14:19:29Z",
             "owner": "facebook",
             "repo": "docusaurus",
-            "stars": 65991
+            "stars": 66005
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 3678731,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T11:14:09Z",
+            "last_commit": "2026-08-19T16:25:43Z",
             "owner": "webpack",
             "repo": "webpack",
-            "stars": 65971
+            "stars": 65970
           }
         },
         {
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 71995937,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:50:39Z",
+            "last_commit": "2026-08-19T21:28:15Z",
             "owner": "nuxt",
             "repo": "nuxt",
-            "stars": 60763
+            "stars": 60764
           }
         },
         {
@@ -102,10 +102,10 @@
             "archived": false,
             "id": 36040894,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T11:32:21Z",
+            "last_commit": "2026-08-19T18:23:45Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55944
+            "stars": 55941
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-08-17T04:30:08Z",
             "owner": "parcel-bundler",
             "repo": "parcel",
-            "stars": 44019
+            "stars": 44020
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2025-08-21T10:56:30Z",
             "owner": "vuejs",
             "repo": "vue-cli",
-            "stars": 29541
+            "stars": 29540
           }
         },
         {
@@ -147,7 +147,7 @@
             "archived": false,
             "id": 36891867,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T07:56:43Z",
+            "last_commit": "2026-08-19T21:03:15Z",
             "owner": "angular",
             "repo": "angular-cli",
             "stars": 27017
@@ -477,7 +477,7 @@
             "last_commit": "2026-08-18T13:28:50Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 497669
+            "stars": 497884
           }
         },
         {
@@ -492,7 +492,7 @@
             "last_commit": "2026-05-03T08:24:10Z",
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66558
+            "stars": 66568
           }
         }
       ],
@@ -500,7 +500,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:53:53.273Z",
+    "last_updated": "2026-08-20T04:07:47.613Z",
     "original_repository": "reyronald/awesome-toolkits",
     "original_repository_id": 117570559,
     "original_repository_sha": "1a21e362f705950de4c1b4d1e1f701ebbcc2a183",
