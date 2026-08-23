@@ -12,10 +12,10 @@
             "archived": false,
             "id": 70107786,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T03:40:34Z",
+            "last_commit": "2026-08-23T00:10:25Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141879
+            "stars": 141888
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-02-15T01:32:11Z",
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103290
+            "stars": 103291
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-21T22:02:04Z",
             "owner": "strapi",
             "repo": "strapi",
-            "stars": 72994
+            "stars": 73002
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 94911145,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T20:49:22Z",
+            "last_commit": "2026-08-22T15:56:21Z",
             "owner": "facebook",
             "repo": "docusaurus",
-            "stars": 66038
+            "stars": 66047
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 3678731,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T00:09:57Z",
+            "last_commit": "2026-08-23T03:19:54Z",
             "owner": "webpack",
             "repo": "webpack",
-            "stars": 65972
+            "stars": 65975
           }
         },
         {
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 71995937,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T23:41:44Z",
+            "last_commit": "2026-08-22T17:12:59Z",
             "owner": "nuxt",
             "repo": "nuxt",
-            "stars": 60776
+            "stars": 60780
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-21T19:12:38Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55940
+            "stars": 55939
           }
         },
         {
@@ -117,7 +117,7 @@
             "archived": false,
             "id": 99598595,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T04:39:55Z",
+            "last_commit": "2026-08-22T04:11:21Z",
             "owner": "parcel-bundler",
             "repo": "parcel",
             "stars": 44020
@@ -150,7 +150,7 @@
             "last_commit": "2026-08-21T18:25:19Z",
             "owner": "angular",
             "repo": "angular-cli",
-            "stars": 27014
+            "stars": 27015
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2024-03-27T18:12:14Z",
             "owner": "preactjs",
             "repo": "preact-cli",
-            "stars": 4667
+            "stars": 4668
           }
         },
         {
@@ -381,7 +381,7 @@
             "last_commit": "2025-02-15T01:32:11Z",
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103290
+            "stars": 103291
           }
         },
         {
@@ -477,7 +477,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 498693
+            "stars": 499027
           }
         },
         {
@@ -492,7 +492,7 @@
             "last_commit": "2026-05-03T08:24:10Z",
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66586
+            "stars": 66594
           }
         }
       ],
@@ -500,7 +500,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T04:05:37.227Z",
+    "last_updated": "2026-08-23T04:08:54.624Z",
     "original_repository": "reyronald/awesome-toolkits",
     "original_repository_id": 117570559,
     "original_repository_sha": "1a21e362f705950de4c1b4d1e1f701ebbcc2a183",
