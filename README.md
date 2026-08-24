@@ -16,16 +16,16 @@ A "toolkit" is a set of tools in any form that allows you to create applications
 
 ## Web
 
-* [Next.js](https://github.com/zeit/next.js) ⭐ 141,904 | 🐛 3,924 | 🌐 JavaScript | 📅 2026-08-24 - Next.js is a minimalistic framework for server-rendered React applications.
+* [Next.js](https://github.com/zeit/next.js) ⭐ 141,914 | 🐛 3,924 | 🌐 JavaScript | 📅 2026-08-24 - Next.js is a minimalistic framework for server-rendered React applications.
 * [Create React App](https://github.com/facebookincubator/create-react-app) ⭐ 103,286 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15 - Create React apps with no build configuration.
-* [Strapi](https://github.com/strapi/strapi/) ⭐ 73,010 | 🐛 539 | 🌐 TypeScript | 📅 2026-08-23 - 🚀 Node.js Content Management Framework (headless-CMS) to build powerful API with no effort.
-* [Docusaurus](https://github.com/facebook/Docusaurus) ⭐ 66,056 | 🐛 400 | 🌐 TypeScript | 📅 2026-08-23 - Easy to maintain open source documentation websites.
+* [Strapi](https://github.com/strapi/strapi/) ⭐ 73,010 | 🐛 535 | 🌐 TypeScript | 📅 2026-08-24 - 🚀 Node.js Content Management Framework (headless-CMS) to build powerful API with no effort.
+* [Docusaurus](https://github.com/facebook/Docusaurus) ⭐ 66,068 | 🐛 400 | 🌐 TypeScript | 📅 2026-08-23 - Easy to maintain open source documentation websites.
 * [Webpack](https://github.com/webpack/webpack) ⭐ 65,971 | 🐛 138 | 🌐 JavaScript | 📅 2026-08-23 - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
-* [Nuxt.js](https://github.com/nuxt/nuxt.js) ⭐ 60,787 | 🐛 541 | 🌐 TypeScript | 📅 2026-08-24 - Versatile Vue.js Framework.
-* [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,939 | 🐛 423 | 🌐 JavaScript | 📅 2026-08-21 - ⚛️📄🚀 Blazing-fast static site generator for React.
-* [Parcel](https://github.com/parcel-bundler/parcel) ⭐ 44,019 | 🐛 601 | 🌐 JavaScript | 📅 2026-08-22 - 📦🚀 Blazing fast, zero configuration web application bundler.
+* [Nuxt.js](https://github.com/nuxt/nuxt.js) ⭐ 60,789 | 🐛 542 | 🌐 TypeScript | 📅 2026-08-24 - Versatile Vue.js Framework.
+* [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,941 | 🐛 423 | 🌐 JavaScript | 📅 2026-08-21 - ⚛️📄🚀 Blazing-fast static site generator for React.
+* [Parcel](https://github.com/parcel-bundler/parcel) ⭐ 44,019 | 🐛 602 | 🌐 JavaScript | 📅 2026-08-22 - 📦🚀 Blazing fast, zero configuration web application bundler.
 * [vue-cli](https://github.com/vuejs/vue-cli) ⭐ 29,541 | 🐛 1,070 | 🌐 JavaScript | 📅 2025-08-21 - A simple CLI for scaffolding Vue.js projects.
-* [Angular CLI](https://github.com/angular/angular-cli) ⭐ 27,014 | 🐛 280 | 🌐 TypeScript | 📅 2026-08-21 - CLI tool for Angular.
+* [Angular CLI](https://github.com/angular/angular-cli) ⭐ 27,013 | 🐛 283 | 🌐 TypeScript | 📅 2026-08-24 - CLI tool for Angular.
 * [Razzle](https://github.com/jaredpalmer/razzle) ⭐ 11,025 | 🐛 135 | 🌐 JavaScript | 📅 2024-03-11 - ✨ Create server-rendered universal JavaScript applications with no configuration.
 * [Sapper](https://github.com/sveltejs/sapper) ⚠️ Archived - Military-grade progressive web apps, powered by Svelte.
 * [nwb](https://github.com/insin/nwb) ⚠️ Archived - A toolkit for React, Preact, Inferno & vanilla JS apps, React libraries and other npm modules for the web, with no configuration (until you need it).
@@ -60,8 +60,8 @@ A "toolkit" is a set of tools in any form that allows you to create applications
 
 ## Related lists
 
-* [Awesome](https://github.com/sindresorhus/awesome) ⭐ 499,344 | 🐛 106 | 📅 2026-08-21 - 😎 Curated list of awesome lists.
-* [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,611 | 🐛 26 | 📅 2026-05-03 - ⚡️ Delightful Node.js packages and resources.
+* [Awesome](https://github.com/sindresorhus/awesome) ⭐ 499,516 | 🐛 106 | 📅 2026-08-21 - 😎 Curated list of awesome lists.
+* [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,610 | 🐛 26 | 📅 2026-05-03 - ⚡️ Delightful Node.js packages and resources.
 
 ## Resources
 
