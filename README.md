@@ -16,16 +16,16 @@ A "toolkit" is a set of tools in any form that allows you to create applications
 
 ## Web
 
-* [Next.js](https://github.com/zeit/next.js) ⭐ 141,922 | 🐛 3,855 | 🌐 JavaScript | 📅 2026-08-25 - Next.js is a minimalistic framework for server-rendered React applications.
+* [Next.js](https://github.com/zeit/next.js) ⭐ 141,925 | 🐛 3,856 | 🌐 JavaScript | 📅 2026-08-25 - Next.js is a minimalistic framework for server-rendered React applications.
 * [Create React App](https://github.com/facebookincubator/create-react-app) ⭐ 103,281 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15 - Create React apps with no build configuration.
 * [Strapi](https://github.com/strapi/strapi/) ⭐ 73,012 | 🐛 537 | 🌐 TypeScript | 📅 2026-08-24 - 🚀 Node.js Content Management Framework (headless-CMS) to build powerful API with no effort.
-* [Docusaurus](https://github.com/facebook/Docusaurus) ⭐ 66,069 | 🐛 397 | 🌐 TypeScript | 📅 2026-08-24 - Easy to maintain open source documentation websites.
-* [Webpack](https://github.com/webpack/webpack) ⭐ 65,972 | 🐛 137 | 🌐 JavaScript | 📅 2026-08-24 - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
-* [Nuxt.js](https://github.com/nuxt/nuxt.js) ⭐ 60,793 | 🐛 543 | 🌐 TypeScript | 📅 2026-08-24 - Versatile Vue.js Framework.
-* [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,942 | 🐛 423 | 🌐 JavaScript | 📅 2026-08-21 - ⚛️📄🚀 Blazing-fast static site generator for React.
+* [Docusaurus](https://github.com/facebook/Docusaurus) ⭐ 66,070 | 🐛 397 | 🌐 TypeScript | 📅 2026-08-24 - Easy to maintain open source documentation websites.
+* [Webpack](https://github.com/webpack/webpack) ⭐ 65,972 | 🐛 133 | 🌐 JavaScript | 📅 2026-08-25 - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+* [Nuxt.js](https://github.com/nuxt/nuxt.js) ⭐ 60,792 | 🐛 543 | 🌐 TypeScript | 📅 2026-08-24 - Versatile Vue.js Framework.
+* [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,943 | 🐛 423 | 🌐 JavaScript | 📅 2026-08-21 - ⚛️📄🚀 Blazing-fast static site generator for React.
 * [Parcel](https://github.com/parcel-bundler/parcel) ⭐ 44,019 | 🐛 602 | 🌐 JavaScript | 📅 2026-08-25 - 📦🚀 Blazing fast, zero configuration web application bundler.
 * [vue-cli](https://github.com/vuejs/vue-cli) ⭐ 29,540 | 🐛 1,070 | 🌐 JavaScript | 📅 2025-08-21 - A simple CLI for scaffolding Vue.js projects.
-* [Angular CLI](https://github.com/angular/angular-cli) ⭐ 27,020 | 🐛 283 | 🌐 TypeScript | 📅 2026-08-24 - CLI tool for Angular.
+* [Angular CLI](https://github.com/angular/angular-cli) ⭐ 27,020 | 🐛 284 | 🌐 TypeScript | 📅 2026-08-25 - CLI tool for Angular.
 * [Razzle](https://github.com/jaredpalmer/razzle) ⭐ 11,025 | 🐛 135 | 🌐 JavaScript | 📅 2024-03-11 - ✨ Create server-rendered universal JavaScript applications with no configuration.
 * [Sapper](https://github.com/sveltejs/sapper) ⚠️ Archived - Military-grade progressive web apps, powered by Svelte.
 * [nwb](https://github.com/insin/nwb) ⚠️ Archived - A toolkit for React, Preact, Inferno & vanilla JS apps, React libraries and other npm modules for the web, with no configuration (until you need it).
@@ -60,8 +60,8 @@ A "toolkit" is a set of tools in any form that allows you to create applications
 
 ## Related lists
 
-* [Awesome](https://github.com/sindresorhus/awesome) ⭐ 499,671 | 🐛 106 | 📅 2026-08-21 - 😎 Curated list of awesome lists.
-* [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,620 | 🐛 26 | 📅 2026-05-03 - ⚡️ Delightful Node.js packages and resources.
+* [Awesome](https://github.com/sindresorhus/awesome) ⭐ 499,703 | 🐛 106 | 📅 2026-08-21 - 😎 Curated list of awesome lists.
+* [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,621 | 🐛 26 | 📅 2026-05-03 - ⚡️ Delightful Node.js packages and resources.
 
 ## Resources
 
