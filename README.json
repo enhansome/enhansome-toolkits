@@ -12,7 +12,7 @@
             "archived": false,
             "id": 70107786,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T11:00:21Z",
+            "last_commit": "2026-08-27T14:19:02Z",
             "owner": "vercel",
             "repo": "next.js",
             "stars": 141959
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 43441403,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:22:52Z",
+            "last_commit": "2026-08-27T13:45:21Z",
             "owner": "strapi",
             "repo": "strapi",
-            "stars": 73018
+            "stars": 73017
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-26T16:50:37Z",
             "owner": "facebook",
             "repo": "docusaurus",
-            "stars": 66102
+            "stars": 66103
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 3678731,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T12:06:47Z",
+            "last_commit": "2026-08-27T14:23:45Z",
             "owner": "webpack",
             "repo": "webpack",
-            "stars": 65964
+            "stars": 65965
           }
         },
         {
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 71995937,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:07:03Z",
+            "last_commit": "2026-08-27T13:01:01Z",
             "owner": "nuxt",
             "repo": "nuxt",
-            "stars": 60803
+            "stars": 60802
           }
         },
         {
@@ -147,7 +147,7 @@
             "archived": false,
             "id": 36891867,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:06:12Z",
+            "last_commit": "2026-08-27T13:34:41Z",
             "owner": "angular",
             "repo": "angular-cli",
             "stars": 27021
@@ -477,7 +477,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500368
+            "stars": 500404
           }
         },
         {
@@ -500,7 +500,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:08:03.666Z",
+    "last_updated": "2026-08-27T14:27:26.774Z",
     "original_repository_info": {
       "archived": false,
       "id": 117570559,

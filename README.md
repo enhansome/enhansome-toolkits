@@ -18,14 +18,14 @@ A "toolkit" is a set of tools in any form that allows you to create applications
 
 * [Next.js](https://github.com/zeit/next.js) ⭐ 141,959 | 🐛 3,658 | 🌐 JavaScript | 📅 2026-08-27 - Next.js is a minimalistic framework for server-rendered React applications.
 * [Create React App](https://github.com/facebookincubator/create-react-app) ⭐ 103,281 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15 - Create React apps with no build configuration.
-* [Strapi](https://github.com/strapi/strapi/) ⭐ 73,018 | 🐛 543 | 🌐 TypeScript | 📅 2026-08-27 - 🚀 Node.js Content Management Framework (headless-CMS) to build powerful API with no effort.
-* [Docusaurus](https://github.com/facebook/Docusaurus) ⭐ 66,102 | 🐛 393 | 🌐 TypeScript | 📅 2026-08-26 - Easy to maintain open source documentation websites.
-* [Webpack](https://github.com/webpack/webpack) ⭐ 65,964 | 🐛 130 | 🌐 JavaScript | 📅 2026-08-27 - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
-* [Nuxt.js](https://github.com/nuxt/nuxt.js) ⭐ 60,803 | 🐛 545 | 🌐 TypeScript | 📅 2026-08-27 - Versatile Vue.js Framework.
+* [Strapi](https://github.com/strapi/strapi/) ⭐ 73,017 | 🐛 542 | 🌐 TypeScript | 📅 2026-08-27 - 🚀 Node.js Content Management Framework (headless-CMS) to build powerful API with no effort.
+* [Docusaurus](https://github.com/facebook/Docusaurus) ⭐ 66,103 | 🐛 393 | 🌐 TypeScript | 📅 2026-08-26 - Easy to maintain open source documentation websites.
+* [Webpack](https://github.com/webpack/webpack) ⭐ 65,965 | 🐛 133 | 🌐 JavaScript | 📅 2026-08-27 - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+* [Nuxt.js](https://github.com/nuxt/nuxt.js) ⭐ 60,802 | 🐛 545 | 🌐 TypeScript | 📅 2026-08-27 - Versatile Vue.js Framework.
 * [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,942 | 🐛 437 | 🌐 JavaScript | 📅 2026-08-27 - ⚛️📄🚀 Blazing-fast static site generator for React.
 * [Parcel](https://github.com/parcel-bundler/parcel) ⭐ 44,021 | 🐛 603 | 🌐 JavaScript | 📅 2026-08-26 - 📦🚀 Blazing fast, zero configuration web application bundler.
 * [vue-cli](https://github.com/vuejs/vue-cli) ⭐ 29,544 | 🐛 1,070 | 🌐 JavaScript | 📅 2025-08-21 - A simple CLI for scaffolding Vue.js projects.
-* [Angular CLI](https://github.com/angular/angular-cli) ⭐ 27,021 | 🐛 279 | 🌐 TypeScript | 📅 2026-08-27 - CLI tool for Angular.
+* [Angular CLI](https://github.com/angular/angular-cli) ⭐ 27,021 | 🐛 276 | 🌐 TypeScript | 📅 2026-08-27 - CLI tool for Angular.
 * [Razzle](https://github.com/jaredpalmer/razzle) ⭐ 11,024 | 🐛 135 | 🌐 JavaScript | 📅 2024-03-11 - ✨ Create server-rendered universal JavaScript applications with no configuration.
 * [Sapper](https://github.com/sveltejs/sapper) ⚠️ Archived - Military-grade progressive web apps, powered by Svelte.
 * [nwb](https://github.com/insin/nwb) ⚠️ Archived - A toolkit for React, Preact, Inferno & vanilla JS apps, React libraries and other npm modules for the web, with no configuration (until you need it).
@@ -60,7 +60,7 @@ A "toolkit" is a set of tools in any form that allows you to create applications
 
 ## Related lists
 
-* [Awesome](https://github.com/sindresorhus/awesome) ⭐ 500,368 | 🐛 105 | 📅 2026-08-21 - 😎 Curated list of awesome lists.
+* [Awesome](https://github.com/sindresorhus/awesome) ⭐ 500,404 | 🐛 105 | 📅 2026-08-21 - 😎 Curated list of awesome lists.
 * [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,625 | 🐛 26 | 📅 2026-05-03 - ⚡️ Delightful Node.js packages and resources.
 
 ## Resources
