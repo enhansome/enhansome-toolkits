@@ -15,11 +15,11 @@
             "id": 70107786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T00:19:20Z",
-            "open_issues": 3638,
+            "last_commit": "2026-08-29T09:54:38Z",
+            "open_issues": 3635,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141980,
+            "stars": 141985,
             "topics": [
               "blog",
               "browser",
@@ -55,7 +55,7 @@
             "open_issues": 2409,
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103279,
+            "stars": 103280,
             "topics": [
               "build-tools",
               "react",
@@ -80,7 +80,7 @@
             "open_issues": 545,
             "owner": "strapi",
             "repo": "strapi",
-            "stars": 73032,
+            "stars": 73037,
             "topics": [
               "api",
               "cms",
@@ -121,7 +121,7 @@
             "open_issues": 397,
             "owner": "facebook",
             "repo": "docusaurus",
-            "stars": 66119,
+            "stars": 66120,
             "topics": [
               "documentation",
               "hacktoberfest",
@@ -145,8 +145,8 @@
             "id": 3678731,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T21:57:53Z",
-            "open_issues": 131,
+            "last_commit": "2026-08-29T07:29:32Z",
+            "open_issues": 132,
             "owner": "webpack",
             "repo": "webpack",
             "stars": 65963,
@@ -183,8 +183,8 @@
             "id": 71995937,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T00:08:43Z",
-            "open_issues": 541,
+            "last_commit": "2026-08-29T09:29:37Z",
+            "open_issues": 544,
             "owner": "nuxt",
             "repo": "nuxt",
             "stars": 60802,
@@ -218,11 +218,11 @@
             "id": 36040894,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T03:41:15Z",
+            "last_commit": "2026-08-29T09:36:02Z",
             "open_issues": 437,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55941,
+            "stars": 55943,
             "topics": [
               "blog",
               "compiler",
@@ -305,7 +305,7 @@
             "open_issues": 264,
             "owner": "angular",
             "repo": "angular-cli",
-            "stars": 27022,
+            "stars": 27021,
             "topics": [
               "angular",
               "angular-cli",
@@ -730,7 +730,7 @@
             "open_issues": 2409,
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103279,
+            "stars": 103280,
             "topics": [
               "build-tools",
               "react",
@@ -896,7 +896,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500891,
+            "stars": 500960,
             "topics": [
               "awesome",
               "awesome-list",
@@ -923,7 +923,7 @@
             "open_issues": 26,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66640,
+            "stars": 66643,
             "topics": [
               "awesome",
               "awesome-list",
@@ -940,7 +940,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:41:39.285Z",
+    "last_updated": "2026-08-29T10:19:36.155Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open source, high-quality, popular and well maintained \"zero-configuration\" (#0CJS) toolkits",
