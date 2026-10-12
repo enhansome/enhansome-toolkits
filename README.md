@@ -16,16 +16,16 @@ A "toolkit" is a set of tools in any form that allows you to create applications
 
 ## Web
 
-* [Next.js](https://github.com/zeit/next.js) ⭐ 143,128 | 🐛 3,623 | 🌐 JavaScript | 📅 2026-10-11 - Next.js is a minimalistic framework for server-rendered React applications.
+* [Next.js](https://github.com/zeit/next.js) ⭐ 143,146 | 🐛 3,617 | 🌐 JavaScript | 📅 2026-10-12 - Next.js is a minimalistic framework for server-rendered React applications.
 * [Create React App](https://github.com/facebookincubator/create-react-app) ⭐ 103,219 | 🐛 2,408 | 🌐 JavaScript | 📅 2025-02-15 - Create React apps with no build configuration.
-* [Strapi](https://github.com/strapi/strapi/) ⭐ 73,292 | 🐛 614 | 🌐 TypeScript | 📅 2026-10-09 - 🚀 Node.js Content Management Framework (headless-CMS) to build powerful API with no effort.
-* [Docusaurus](https://github.com/facebook/Docusaurus) ⭐ 66,469 | 🐛 430 | 🌐 TypeScript | 📅 2026-10-10 - Easy to maintain open source documentation websites.
-* [Webpack](https://github.com/webpack/webpack) ⭐ 66,059 | 🐛 131 | 🌐 JavaScript | 📅 2026-10-11 - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
-* [Nuxt.js](https://github.com/nuxt/nuxt.js) ⭐ 60,927 | 🐛 468 | 🌐 TypeScript | 📅 2026-10-11 - Versatile Vue.js Framework.
-* [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,938 | 🐛 453 | 🌐 JavaScript | 📅 2026-10-05 - ⚛️📄🚀 Blazing-fast static site generator for React.
-* [Parcel](https://github.com/parcel-bundler/parcel) ⭐ 44,012 | 🐛 609 | 🌐 JavaScript | 📅 2026-09-29 - 📦🚀 Blazing fast, zero configuration web application bundler.
+* [Strapi](https://github.com/strapi/strapi/) ⭐ 73,297 | 🐛 603 | 🌐 TypeScript | 📅 2026-10-12 - 🚀 Node.js Content Management Framework (headless-CMS) to build powerful API with no effort.
+* [Docusaurus](https://github.com/facebook/Docusaurus) ⭐ 66,472 | 🐛 430 | 🌐 TypeScript | 📅 2026-10-10 - Easy to maintain open source documentation websites.
+* [Webpack](https://github.com/webpack/webpack) ⭐ 66,063 | 🐛 122 | 🌐 JavaScript | 📅 2026-10-12 - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+* [Nuxt.js](https://github.com/nuxt/nuxt.js) ⭐ 60,931 | 🐛 472 | 🌐 TypeScript | 📅 2026-10-12 - Versatile Vue.js Framework.
+* [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,937 | 🐛 453 | 🌐 JavaScript | 📅 2026-10-05 - ⚛️📄🚀 Blazing-fast static site generator for React.
+* [Parcel](https://github.com/parcel-bundler/parcel) ⭐ 44,011 | 🐛 609 | 🌐 JavaScript | 📅 2026-10-12 - 📦🚀 Blazing fast, zero configuration web application bundler.
 * [vue-cli](https://github.com/vuejs/vue-cli) ⭐ 29,517 | 🐛 1,069 | 🌐 JavaScript | 📅 2025-08-21 - A simple CLI for scaffolding Vue.js projects.
-* [Angular CLI](https://github.com/angular/angular-cli) ⭐ 27,016 | 🐛 247 | 🌐 TypeScript | 📅 2026-10-09 - CLI tool for Angular.
+* [Angular CLI](https://github.com/angular/angular-cli) ⭐ 27,018 | 🐛 241 | 🌐 TypeScript | 📅 2026-10-12 - CLI tool for Angular.
 * [Razzle](https://github.com/jaredpalmer/razzle) ⭐ 11,017 | 🐛 135 | 🌐 JavaScript | 📅 2024-03-11 - ✨ Create server-rendered universal JavaScript applications with no configuration.
 * [Sapper](https://github.com/sveltejs/sapper) ⚠️ Archived - Military-grade progressive web apps, powered by Svelte.
 * [nwb](https://github.com/insin/nwb) ⚠️ Archived - A toolkit for React, Preact, Inferno & vanilla JS apps, React libraries and other npm modules for the web, with no configuration (until you need it).
@@ -52,7 +52,7 @@ A "toolkit" is a set of tools in any form that allows you to create applications
 
 * [react-scripts](https://github.com/facebookincubator/create-react-app/tree/master/packages/react-scripts) ⭐ 103,219 | 🐛 2,408 | 🌐 JavaScript | 📅 2025-02-15 - This package includes scripts and configuration used by Create React App.
 * [react-app-rewired](https://github.com/timarney/react-app-rewired) ⭐ 9,836 | 🐛 25 | 🌐 JavaScript | 📅 2026-10-03 - Override create-react-app webpack configs without ejecting.
-* [react-snap](https://github.com/stereobooster/react-snap) ⭐ 5,118 | 🐛 192 | 🌐 JavaScript | 📅 2026-02-02 - 👻 Zero-configuration framework-agnostic static prerendering for SPAs.
+* [react-snap](https://github.com/stereobooster/react-snap) ⭐ 5,119 | 🐛 192 | 🌐 JavaScript | 📅 2026-02-02 - 👻 Zero-configuration framework-agnostic static prerendering for SPAs.
 * [kcd-scripts](https://github.com/kentcdodds/kcd-scripts) ⭐ 889 | 🐛 14 | 🌐 JavaScript | 📅 2026-05-13 - CLI toolbox for common scripts for [Kent C. Dodds](https://github.com/kentcdodds/kcd-scripts) ⭐ 889 | 🐛 14 | 🌐 JavaScript | 📅 2026-05-13' projects.
 * [blogfoster-scripts](https://github.com/blogfoster/blogfoster-scripts/) ⚠️ Archived - Single-command, zero-config tooling for Node.js projects
 * [nodify](https://github.com/shrynx/nodify) ⚠️ Archived - Zero-config build tool system for Node.js.
@@ -60,8 +60,8 @@ A "toolkit" is a set of tools in any form that allows you to create applications
 
 ## Related lists
 
-* [Awesome](https://github.com/sindresorhus/awesome) ⭐ 517,429 | 🐛 105 | 📅 2026-09-02 - 😎 Curated list of awesome lists.
-* [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,069 | 🐛 24 | 📅 2026-09-02 - ⚡️ Delightful Node.js packages and resources.
+* [Awesome](https://github.com/sindresorhus/awesome) ⭐ 517,903 | 🐛 105 | 📅 2026-09-02 - 😎 Curated list of awesome lists.
+* [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,086 | 🐛 24 | 📅 2026-09-02 - ⚡️ Delightful Node.js packages and resources.
 
 ## Resources
 
@@ -85,4 +85,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
