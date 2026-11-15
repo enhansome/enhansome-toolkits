@@ -16,16 +16,16 @@ A "toolkit" is a set of tools in any form that allows you to create applications
 
 ## Web
 
-* [Next.js](https://github.com/zeit/next.js) ⭐ 143,509 | 🐛 3,968 | 🌐 JavaScript | 📅 2026-11-14 - Next.js is a minimalistic framework for server-rendered React applications.
+* [Next.js](https://github.com/zeit/next.js) ⭐ 143,526 | 🐛 3,986 | 🌐 JavaScript | 📅 2026-11-15 - Next.js is a minimalistic framework for server-rendered React applications.
 * [Create React App](https://github.com/facebookincubator/create-react-app) ⭐ 103,226 | 🐛 2,408 | 🌐 JavaScript | 📅 2025-02-15 - Create React apps with no build configuration.
-* [Strapi](https://github.com/strapi/strapi/) ⭐ 73,480 | 🐛 642 | 🌐 TypeScript | 📅 2026-11-13 - 🚀 Node.js Content Management Framework (headless-CMS) to build powerful API with no effort.
-* [Docusaurus](https://github.com/facebook/Docusaurus) ⭐ 66,732 | 🐛 429 | 🌐 TypeScript | 📅 2026-11-13 - Easy to maintain open source documentation websites.
-* [Webpack](https://github.com/webpack/webpack) ⭐ 66,002 | 🐛 121 | 🌐 JavaScript | 📅 2026-11-14 - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
-* [Nuxt.js](https://github.com/nuxt/nuxt.js) ⭐ 61,071 | 🐛 475 | 🌐 TypeScript | 📅 2026-11-14 - Versatile Vue.js Framework.
-* [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,914 | 🐛 461 | 🌐 JavaScript | 📅 2026-11-11 - ⚛️📄🚀 Blazing-fast static site generator for React.
-* [Parcel](https://github.com/parcel-bundler/parcel) ⭐ 44,019 | 🐛 590 | 🌐 Rust | 📅 2026-11-11 - 📦🚀 Blazing fast, zero configuration web application bundler.
+* [Strapi](https://github.com/strapi/strapi/) ⭐ 73,491 | 🐛 642 | 🌐 TypeScript | 📅 2026-11-13 - 🚀 Node.js Content Management Framework (headless-CMS) to build powerful API with no effort.
+* [Docusaurus](https://github.com/facebook/Docusaurus) ⭐ 66,743 | 🐛 431 | 🌐 TypeScript | 📅 2026-11-13 - Easy to maintain open source documentation websites.
+* [Webpack](https://github.com/webpack/webpack) ⭐ 66,007 | 🐛 116 | 🌐 JavaScript | 📅 2026-11-15 - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+* [Nuxt.js](https://github.com/nuxt/nuxt.js) ⭐ 61,076 | 🐛 471 | 🌐 TypeScript | 📅 2026-11-15 - Versatile Vue.js Framework.
+* [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,916 | 🐛 461 | 🌐 JavaScript | 📅 2026-11-11 - ⚛️📄🚀 Blazing-fast static site generator for React.
+* [Parcel](https://github.com/parcel-bundler/parcel) ⭐ 44,023 | 🐛 591 | 🌐 Rust | 📅 2026-11-14 - 📦🚀 Blazing fast, zero configuration web application bundler.
 * [vue-cli](https://github.com/vuejs/vue-cli) ⭐ 29,495 | 🐛 1,069 | 🌐 JavaScript | 📅 2025-08-21 - A simple CLI for scaffolding Vue.js projects.
-* [Angular CLI](https://github.com/angular/angular-cli) ⭐ 27,019 | 🐛 218 | 🌐 TypeScript | 📅 2026-11-13 - CLI tool for Angular.
+* [Angular CLI](https://github.com/angular/angular-cli) ⭐ 27,019 | 🐛 219 | 🌐 TypeScript | 📅 2026-11-13 - CLI tool for Angular.
 * [Razzle](https://github.com/jaredpalmer/razzle) ⭐ 11,019 | 🐛 135 | 🌐 JavaScript | 📅 2024-03-11 - ✨ Create server-rendered universal JavaScript applications with no configuration.
 * [Sapper](https://github.com/sveltejs/sapper) ⚠️ Archived - Military-grade progressive web apps, powered by Svelte.
 * [nwb](https://github.com/insin/nwb) ⚠️ Archived - A toolkit for React, Preact, Inferno & vanilla JS apps, React libraries and other npm modules for the web, with no configuration (until you need it).
@@ -35,7 +35,7 @@ A "toolkit" is a set of tools in any form that allows you to create applications
 * [After.js](https://github.com/jaredpalmer/after.js) ⭐ 4,088 | 🐛 20 | 🌐 TypeScript | 📅 2024-02-26 - Next.js-like framework for server-rendered React apps built with React Router 4.
 * [Neutrino](https://github.com/mozilla-neutrino/neutrino-dev) ⚠️ Archived - Create and build modern JavaScript applications with zero initial configuration.
 * [Create React App Typescript](https://github.com/wmonk/create-react-app-typescript) ⚠️ Archived - Create React apps using typescript with no build configuration.
-* [ember-cli](https://github.com/ember-cli/ember-cli) ⭐ 3,235 | 🐛 154 | 🌐 JavaScript | 📅 2026-11-13 - The Ember.js command line utility.
+* [ember-cli](https://github.com/ember-cli/ember-cli) ⭐ 3,235 | 🐛 138 | 🌐 JavaScript | 📅 2026-11-14 - The Ember.js command line utility.
 * [Create Elm App](https://github.com/halfzebra/create-elm-app) ⭐ 1,675 | 🐛 54 | 🌐 JavaScript | 📅 2026-10-24 - Create Elm apps with zero configuration.
 * [Create Guten Block](https://github.com/ahmadawais/create-guten-block/) ⭐ 769 | 🐛 1 | 🌐 JavaScript | 📅 2026-05-04 - Create WordPress Gutenberg plugins with zero-configuration.
 * [Aurelia CLI](https://github.com/aurelia/cli) ⭐ 401 | 🐛 63 | 🌐 JavaScript | 📅 2026-05-21 - The official command line tooling for Aurelia. Use the CLI to create projects, scaffold components and bundle your app for release.
@@ -60,8 +60,8 @@ A "toolkit" is a set of tools in any form that allows you to create applications
 
 ## Related lists
 
-* [Awesome](https://github.com/sindresorhus/awesome) ⭐ 536,626 | 🐛 104 | 📅 2026-09-02 - 😎 Curated list of awesome lists.
-* [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,498 | 🐛 25 | 📅 2026-09-02 - ⚡️ Delightful Node.js packages and resources.
+* [Awesome](https://github.com/sindresorhus/awesome) ⭐ 537,181 | 🐛 104 | 📅 2026-09-02 - 😎 Curated list of awesome lists.
+* [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,515 | 🐛 25 | 📅 2026-09-02 - ⚡️ Delightful Node.js packages and resources.
 
 ## Resources
 
@@ -85,4 +85,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
