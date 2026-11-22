@@ -15,11 +15,11 @@
             "id": 70107786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-21T10:56:05Z",
+            "last_commit": "2026-11-22T11:41:22Z",
             "open_issues": 4110,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 143629,
+            "stars": 143605,
             "topics": [
               "blog",
               "browser",
@@ -55,7 +55,7 @@
             "open_issues": 2407,
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103224,
+            "stars": 103223,
             "topics": [
               "build-tools",
               "react",
@@ -76,11 +76,11 @@
             "id": 43441403,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-20T20:20:43Z",
+            "last_commit": "2026-11-21T13:47:26Z",
             "open_issues": 619,
             "owner": "strapi",
             "repo": "strapi",
-            "stars": 73531,
+            "stars": 73533,
             "topics": [
               "api",
               "cms",
@@ -118,10 +118,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-20T20:40:55Z",
-            "open_issues": 444,
+            "open_issues": 450,
             "owner": "meta",
             "repo": "docusaurus",
-            "stars": 66776,
+            "stars": 66783,
             "topics": [
               "documentation",
               "hacktoberfest",
@@ -145,11 +145,11 @@
             "id": 3678731,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-20T18:53:35Z",
-            "open_issues": 108,
+            "last_commit": "2026-11-22T09:45:21Z",
+            "open_issues": 113,
             "owner": "webpack",
             "repo": "webpack",
-            "stars": 66018,
+            "stars": 66021,
             "topics": [
               "amd",
               "build-tool",
@@ -183,11 +183,11 @@
             "id": 71995937,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-21T10:26:42Z",
-            "open_issues": 475,
+            "last_commit": "2026-11-22T11:43:53Z",
+            "open_issues": 476,
             "owner": "nuxt",
             "repo": "nuxt",
-            "stars": 61092,
+            "stars": 61098,
             "topics": [
               "csr",
               "framework",
@@ -247,11 +247,11 @@
             "id": 99598595,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-19T07:03:28Z",
+            "last_commit": "2026-11-22T05:01:13Z",
             "open_issues": 593,
             "owner": "parcel-bundler",
             "repo": "parcel",
-            "stars": 44027,
+            "stars": 44028,
             "topics": [
               "assets",
               "build-tool",
@@ -305,7 +305,7 @@
             "open_issues": 221,
             "owner": "angular",
             "repo": "angular-cli",
-            "stars": 27023,
+            "stars": 27024,
             "topics": [
               "angular",
               "angular-cli",
@@ -361,7 +361,7 @@
             "open_issues": 259,
             "owner": "sveltejs",
             "repo": "sapper",
-            "stars": 6903,
+            "stars": 6904,
             "topics": []
           },
           "first_seen": "2026-08-28T15:34:38.177Z"
@@ -730,7 +730,7 @@
             "open_issues": 2407,
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103224,
+            "stars": 103223,
             "topics": [
               "build-tools",
               "react",
@@ -896,7 +896,7 @@
             "open_issues": 103,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 540250,
+            "stars": 540786,
             "topics": [
               "awesome",
               "awesome-list",
@@ -923,7 +923,7 @@
             "open_issues": 25,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 67586,
+            "stars": 67600,
             "topics": [
               "awesome",
               "awesome-list",
@@ -940,7 +940,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T11:34:56.746Z",
+    "last_updated": "2026-11-22T11:48:51.138Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open source, high-quality, popular and well maintained \"zero-configuration\" (#0CJS) toolkits",
